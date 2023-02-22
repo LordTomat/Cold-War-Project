@@ -1,7 +1,7 @@
 ﻿STATES = {
 	s:STATE_MINSK = {
 		create_state = {
-			country = c:RUS
+			country = c:BYE
 			owned_provinces = {
 				x0161E0
 				x2B4670
@@ -9489,7 +9489,7 @@
 				}
 			}
 			create_state = {
-				country = c:RUS
+				country = c:UKR
 				owned_provinces = {
 					x31A0A0
 					x7E6263
@@ -44820,7 +44820,7 @@
 		}
 		s:STATE_LUHANSK = {
 			create_state = {
-				country = c:RUS
+				country = c:UKR
 				owned_provinces = {
 					x500F88
 					xF0E061
@@ -44994,7 +44994,7 @@
 		}
 		s:STATE_CHERSON = {
 			create_state = {
-				country = c:RUS
+				country = c:UKR
 				owned_provinces = {
 					x000AE0
 					x0E1864
@@ -45036,10 +45036,6 @@
 			create_state = {
 				country = c:RUS
 				owned_provinces = {
-					xB0E0A0
-					x6BF7B8
-					x5F2259
-					x23621B
 					x8955DF
 					x622837
 					x1E1DEF
@@ -45050,6 +45046,15 @@
 					x8ACA9B
 					x53D7E0
 					xE7274A
+				}
+			}
+                        create_state = {
+				country = c:UKR
+				owned_provinces = {
+					x23621B
+					x5F2259
+					xB0E0A0
+					x6BF7B8
 				}
 			}
 			add_homeland = romanian
@@ -45151,7 +45156,7 @@
 		}
 		s:STATE_ORSHA = {
 			create_state = {
-				country = c:RUS
+				country = c:BYE
 				owned_provinces = {
 					xC9634A
 					xB13CAC
@@ -45276,7 +45281,7 @@
 		}
 		s:STATE_EAST_GALICIA = {
 			create_state = {
-				country = c:RUS
+				country = c:UKR
 				owned_provinces = {
 					xA2805F
 					x9D8087
@@ -46069,7 +46074,7 @@
 		}
 		s:STATE_BREST = {
 			create_state = {
-				country = c:RUS
+				country = c:BYE
 				owned_provinces = {
 					x406020
 					x241A22
@@ -46174,7 +46179,7 @@
 		}
 		s:STATE_VOLHYNIA = {
 			create_state = {
-				country = c:RUS
+				country = c:UKR
 				owned_provinces = {
 					x6AC779
 					x905D21
@@ -46207,7 +46212,7 @@
 		}
 		s:STATE_KIEV = {
 			create_state = {
-				country = c:RUS
+				country = c:UKR
 				owned_provinces = {
 					x01E0E0
 					x022620
@@ -47012,7 +47017,7 @@
 		}
 		s:STATE_MUKACHEVO = {
 			create_state = {
-				country = c:RUS
+				country = c:UKR
 				owned_provinces = {
 					xA0531B
 					x359378

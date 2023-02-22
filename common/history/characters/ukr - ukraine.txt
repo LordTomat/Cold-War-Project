@@ -1,0 +1,19 @@
+CHARACTERS = {
+	c:UKR = {
+		create_character = { #Ruler of Ukraine SSR until 1947
+			first_name = "Nikita"
+			last_name = "Khrushchev"
+			culture=cu:ukrainian
+			religion=rel:atheist
+			ruler = yes
+			ig_leader = yes
+			birth_date = 1894.4.15
+			dna = dna_nikita_khrushchev
+			interest_group = ig_vanguardists
+			ideology = ideology_marxist_leninist
+			traits = {
+				reserved
+			}
+		}
+	}
+}

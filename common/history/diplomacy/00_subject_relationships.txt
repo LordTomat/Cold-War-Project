@@ -421,6 +421,14 @@
 		}
 	}
 	c:RUS = {
+	        create_diplomatic_pact = {
+			country = c:BYE
+			type = puppet
+		}
+		create_diplomatic_pact = {
+			country = c:UKR
+			type = puppet
+		}
 		create_diplomatic_pact = {
 			country = c:ROM
 			type = protectorate
